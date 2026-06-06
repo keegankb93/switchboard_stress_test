@@ -1,0 +1,3 @@
+* EXCEPTION: Player was not in the right place
+** Backtrace:
+*** app/main.rb:489
